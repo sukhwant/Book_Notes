@@ -1,4 +1,4 @@
-= Names = 
+# Names
 
 1. Use Intention revealing names
 	11. If a name requires a comment, then the name does not reveal its intent.
